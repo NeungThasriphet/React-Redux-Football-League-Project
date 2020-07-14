@@ -2,18 +2,18 @@
   "leagues": [
     {
       "name": "RUBY T1 League",
-      "is_league": true,
-      "current_title_Sponsor": "RUBY Motors",
-      "partner_sponsor": ["AB", "AC", "AA"],
+      "isLeague": true,
+      "currentTitleSponsor": "RUBY Motors",
+      "partnerSponsor": ["AB", "AC", "AA"],
       "established": {
         "Date": "01/05/2000",
         "AD": true
       },
       "reward": {
-        "reward_value": 1000000,
+        "rewardValue": 1000000,
         "currency": "USD"
       },
-      "champions_list": [
+      "championsList": [
         {
           "club": "",
           "season": "2000"
@@ -27,24 +27,26 @@
           "season": "2002"
         }
       ],
+      "clubs": 16,
+      "zones": 1,
       "promote": 0,
       "release": 3,
       "league_background": "Lorem ipsum dolor sit amet, quisque tristique sem, nullam donec erat donec accumsan lobortis, metus sodales nulla metus vel tristique condimentum, turpis morbi tempor, vitae wisi. Vitae fermentum sed suspendisse consectetuer nibh lectus. Pellentesque viverra, mauris ipsum dapibus fringilla. Massa neque duis vel, diam vehicula nulla ut eros cras. Ac nullam porttitor libero lorem, tempus feugiat amet, in leo tellus sed phasellus lorem morbi, suspendisse duis in metus a do ridiculus. Lobortis hendrerit mollis felis augue donec placerat, id quam malesuada hendrerit mi auctor proin, nec aute. Tellus morbi dictum, vitae lorem, cras turpis a ac mauris. Auctor neque sollicitudin sodales amet lorem, pulvinar praesent iaculis."
     },
     {
       "name": "NEELAM T2 League",
-      "is_league": true,
-      "current_title_Sponsor": "NEELAM Beverage",
-      "partner_sponsor": ["AB", "AC", "AA"],
+      "isLeague": true,
+      "currentTitleSponsor": "NEELAM Beverage",
+      "partnerSponsor": ["AB", "AC", "AA"],
       "established": {
         "Date": "01/05/2000",
         "AD": true
       },
       "reward": {
-        "reward_value": 100000,
+        "rewardValue": 100000,
         "currency": "USD"
       },
-      "champions_list": [
+      "championsList": [
         {
           "club": "",
           "season": "2000"
@@ -58,24 +60,26 @@
           "season": "2002"
         }
       ],
+      "clubs": 18,
+      "zones": 1,
       "promote": 3,
       "release": 4,
       "league_background": "Quisque mi wisi id tristique commodo id, magna praesent faucibus pellentesque torquent sollicitudin, nunc magna fusce iste scelerisque amet sollicitudin, nulla mauris in magna justo augue. Ultricies et id sed id, sed lorem wisi magnis, donec at vel sagittis, vel quam interdum lorem, duis vel. Gravida ligula, venenatis at et quam mattis justo, vitae porta sodales justo dignissim orci. Ut sagittis augue et ac massa tempor, vel cursus, mauris ultrices. Nisl sit, lectus sed maecenas pellentesque malesuada, sodales penatibus pharetra pellentesque vitae. Egestas curabitur vehicula placerat augue molestie. Nulla lorem felis placerat purus proin, volutpat nam mauris quis, elementum vel nisl pede pellentesque, interdum amet neque. Velit lobortis blandit eu erat, augue ultrices tincidunt erat elementum aenean. Praesent quam felis, sed massa scelerisque id, sapien purus rutrum ac neque, diam rutrum lorem. Sodales ipsum. Ligula tempor non, a integer."
     },
     {
       "name": "PANNA T3 League",
-      "is_league": true,
-      "current_title_Sponsor": "PANNA Banking",
-      "partner_sponsor": ["AB", "AC", "AA"],
+      "isLeague": true,
+      "currentTitleSponsor": "PANNA Banking",
+      "partnerSponsor": ["AB", "AC", "AA"],
       "established": {
         "Date": "01/05/2000",
         "AD": true
       },
       "reward": {
-        "reward_value": 90000,
+        "rewardValue": 90000,
         "currency": "USD"
       },
-      "champions_list": [
+      "championsList": [
         {
           "club": "",
           "season": "2000"
@@ -89,24 +93,26 @@
           "season": "2002"
         }
       ],
+      "clubs": 32,
+      "zones": 2,
       "promote": 4,
       "release": 6,
       "league_background": "Quisque mi wisi id tristique commodo id, magna praesent faucibus pellentesque torquent sollicitudin, nunc magna fusce iste scelerisque amet sollicitudin, nulla mauris in magna justo augue. Ultricies et id sed id, sed lorem wisi magnis, donec at vel sagittis, vel quam interdum lorem, duis vel. Gravida ligula, venenatis at et quam mattis justo, vitae porta sodales justo dignissim orci. Ut sagittis augue et ac massa tempor, vel cursus, mauris ultrices. Nisl sit, lectus sed maecenas pellentesque malesuada, sodales penatibus pharetra pellentesque vitae. Egestas curabitur vehicula placerat augue molestie. Nulla lorem felis placerat purus proin, volutpat nam mauris quis, elementum vel nisl pede pellentesque, interdum amet neque. Velit lobortis blandit eu erat, augue ultrices tincidunt erat elementum aenean. Praesent quam felis, sed massa scelerisque id, sapien purus rutrum ac neque, diam rutrum lorem. Sodales ipsum. Ligula tempor non, a integer."
     },
     {
       "name": "RUBELLITE T4 League",
-      "is_league": true,
-      "current_title_Sponsor": "RUBELLITE Transport",
-      "partner_sponsor": ["AB", "AC", "AA"],
+      "isLeague": true,
+      "currentTitleSponsor": "RUBELLITE Transport",
+      "partnerSponsor": ["AB", "AC", "AA"],
       "established": {
         "Date": "01/05/2000",
         "AD": true
       },
       "reward": {
-        "reward_value": 60000,
+        "rewardValue": 60000,
         "currency": "USD"
       },
-      "champions_list": [
+      "championsList": [
         {
           "club": "",
           "season": "2000"
@@ -120,24 +126,26 @@
           "season": "2002"
         }
       ],
+      "clubs": 64,
+      "zones": 4,
       "promote": 6,
       "release": 6,
       "league_background": "Quisque mi wisi id tristique commodo id, magna praesent faucibus pellentesque torquent sollicitudin, nunc magna fusce iste scelerisque amet sollicitudin, nulla mauris in magna justo augue. Ultricies et id sed id, sed lorem wisi magnis, donec at vel sagittis, vel quam interdum lorem, duis vel. Gravida ligula, venenatis at et quam mattis justo, vitae porta sodales justo dignissim orci. Ut sagittis augue et ac massa tempor, vel cursus, mauris ultrices. Nisl sit, lectus sed maecenas pellentesque malesuada, sodales penatibus pharetra pellentesque vitae. Egestas curabitur vehicula placerat augue molestie. Nulla lorem felis placerat purus proin, volutpat nam mauris quis, elementum vel nisl pede pellentesque, interdum amet neque. Velit lobortis blandit eu erat, augue ultrices tincidunt erat elementum aenean. Praesent quam felis, sed massa scelerisque id, sapien purus rutrum ac neque, diam rutrum lorem. Sodales ipsum. Ligula tempor non, a integer."
     },
     {
       "name": "AMETHYST TA League",
-      "is_league": true,
-      "current_title_Sponsor": "AMETHYST FOOD",
-      "partner_sponsor": ["AB", "AC", "AA"],
+      "isLeague": true,
+      "currentTitleSponsor": "AMETHYST FOOD",
+      "partnerSponsor": ["AB", "AC", "AA"],
       "established": {
         "Date": "01/05/2000",
         "AD": true
       },
       "reward": {
-        "reward_value": 60000,
+        "rewardValue": 60000,
         "currency": "USD"
       },
-      "champions_list": [
+      "championsList": [
         {
           "club": "",
           "season": "2000"
@@ -151,24 +159,26 @@
           "season": "2002"
         }
       ],
+      "clubs": 80,
+      "zones": 8,
       "promote": 6,
       "release": 0,
       "league_background": "Quisque mi wisi id tristique commodo id, magna praesent faucibus pellentesque torquent sollicitudin, nunc magna fusce iste scelerisque amet sollicitudin, nulla mauris in magna justo augue. Ultricies et id sed id, sed lorem wisi magnis, donec at vel sagittis, vel quam interdum lorem, duis vel. Gravida ligula, venenatis at et quam mattis justo, vitae porta sodales justo dignissim orci. Ut sagittis augue et ac massa tempor, vel cursus, mauris ultrices. Nisl sit, lectus sed maecenas pellentesque malesuada, sodales penatibus pharetra pellentesque vitae. Egestas curabitur vehicula placerat augue molestie. Nulla lorem felis placerat purus proin, volutpat nam mauris quis, elementum vel nisl pede pellentesque, interdum amet neque. Velit lobortis blandit eu erat, augue ultrices tincidunt erat elementum aenean. Praesent quam felis, sed massa scelerisque id, sapien purus rutrum ac neque, diam rutrum lorem. Sodales ipsum. Ligula tempor non, a integer."
     },
     {
       "name": "FA CUP",
-      "is_league": false,
-      "current_title_Sponsor": "RUBY Motor",
-      "partner_sponsor": ["AB", "AC", "AA"],
+      "isLeague": false,
+      "currentTitleSponsor": "RUBY Motor",
+      "partnerSponsor": ["AB", "AC", "AA"],
       "established": {
         "Date": "01/05/2000",
         "AD": true
       },
       "reward": {
-        "reward_value": 88000,
+        "rewardValue": 88000,
         "currency": "USD"
       },
-      "champions_list": [
+      "championsList": [
         {
           "club": "",
           "season": "2000"
@@ -182,7 +192,9 @@
           "season": "2002"
         }
       ],
-      "promote": 6,
+      "clubs": 210,
+      "zones": 8,
+      "promote": 0,
       "release": 0,
       "league_background": "Quisque mi wisi id tristique commodo id, magna praesent faucibus pellentesque torquent sollicitudin, nunc magna fusce iste scelerisque amet sollicitudin, nulla mauris in magna justo augue. Ultricies et id sed id, sed lorem wisi magnis, donec at vel sagittis, vel quam interdum lorem, duis vel. Gravida ligula, venenatis at et quam mattis justo, vitae porta sodales justo dignissim orci. Ut sagittis augue et ac massa tempor, vel cursus, mauris ultrices. Nisl sit, lectus sed maecenas pellentesque malesuada, sodales penatibus pharetra pellentesque vitae. Egestas curabitur vehicula placerat augue molestie. Nulla lorem felis placerat purus proin, volutpat nam mauris quis, elementum vel nisl pede pellentesque, interdum amet neque. Velit lobortis blandit eu erat, augue ultrices tincidunt erat elementum aenean. Praesent quam felis, sed massa scelerisque id, sapien purus rutrum ac neque, diam rutrum lorem. Sodales ipsum. Ligula tempor non, a integer."
     }
